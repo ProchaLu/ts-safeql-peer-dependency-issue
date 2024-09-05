@@ -1,0 +1,16 @@
+{
+  "name": "ts-safeql-peer-dependency-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ts-safeql/eslint-plugin": "^3.4.1",
+    "eslint-config-flat-gitignore": "^0.3.0"
+  }
+}
